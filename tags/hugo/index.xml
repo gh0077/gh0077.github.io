@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo on 阿柴的家</title>
+    <link>https://gh0077.github.io/tags/hugo/</link>
+    <description>Recent content in Hugo on 阿柴的家</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Fri, 17 Apr 2020 10:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://gh0077.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hugo shortcodes 示範</title>
+      <link>https://gh0077.github.io/blog/shortcodes-test/</link>
+      <pubDate>Fri, 17 Apr 2020 10:00:00 +0800</pubDate>
+      
+      <guid>https://gh0077.github.io/blog/shortcodes-test/</guid>
+      <description>Youtube   Twitter GitHub Desktop 2.4, updated with automatic proxy configuration, quicker issue creation—oh, and dark theme is out of beta!</description>
+    </item>
+    
+  </channel>
+</rss>
